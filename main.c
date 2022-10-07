@@ -2,24 +2,19 @@
 #include <stdlib.h>
 
 int main()
-printf_s
-"Chiles morita rellenos
-con salsa de nuez\n");
-
-printf(150 g de chiles morita (unos 20).
-2 cucharadas de aceite.
-12 dientes de ajo.
-1 cebolla cortada en aros finos.
-2 tazas de vinagre de vino tinto.
-Sal.
-10 granos de pimienta negra.
-11/2 cucharadas de orégano seco.
-185 g de piloncillo rallado.
-Relleno:
-1 cucharada de aceite.
-1/2 cebolla finamente picada.
-2 dientes de ajo finamente picados.
-1/2 taza (125 g) de tomate finamente picado.)
-150 g de chiles morita (unos 20).
-
-
+{
+    printf("Problemas y algoritmos\n");
+    return 0;
+}
+printf_s 1/4 taza; 30 g de almendras peladas y picadas/n";
+ int 1/4 taza 30 g de uvas pasas sin semillas/n";
+int 1 pechuga entera de pollo cocida y finamente desmenuzada/n";
+int 1 cucharadita de sal/n";
+ int 1/2cucharada de pimienta recién molida.
+Salsa/n;
+int 2 huevos, separadas las claras de las yemas/n;
+int 3/4 taza (90 g) de harina/n;
+int Aceite para freír/n;
+int 3/4 taza (90 g) de nueces/n;
+int 1 taza de crema de leche espesa, no azucarada/n;
+printf
