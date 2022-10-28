@@ -1,13 +1,16 @@
+#include <math.h>
 #include <stdio.h>
-/* Superficie del triángulo.
-El programa, al recibir como datos la base y la altura de un triángulo,
-➥calcula su superficie.
-BAS, ALT y SUP: variables de tipo real. */
-void main (void)
+int main(int argc, char const *argv[])
 {
-float BAS, ALT, SUP;
-printf(“Ingrese la base y la altura del triángulo: “);
-scanf(“%f %f”, &BAS, &ALT);
-SUP = BAS * ALT / 2;
-printf(“\nLa superficie del triángulo es: %5.2f”, SUP);
+	double numero; // Aqu� vamos a almacenar lo que el usuario introduzca
+	printf("Escribe un numero y te dire su raiz cuadrada\n");
+	scanf("%lf", &numero); // Escanear lo que el usuario ingresa
+	double raizCuadrada = sqrt(numero); // Calcular ra�z
+	printf("La raiz cuadrada de %lf es %lf\n", numero, raizCuadrada);
+	return 0;
 }
+
+
+
+
+
