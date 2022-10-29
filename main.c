@@ -1,19 +1,22 @@
 #include <stdio.h>
-/* Billete de ferrocarril.
-El programa calcula el costo de un billete de ferrocarril teniendo en
-cuenta la distancia entre las dos ciudades y el tiempo de permanencia
-del pasajero.
-DIS y TIE: variables de tipo entero.
-BIL: variable de tipo real. */
+#include <math.h>
+
+/* Igualdad de expresiones.
+El programa, al recibir como datos T, P y N, comprueba la igualdad de
+una expresión determinada.
+T, P y N: variables de tipo entero. */
 void main(void)
 {
-int DIS, TIE;
-float BIL;
-printf("Ingrese la distancia entre ciudades y el tiempo de estancia: ");
-scanf("%d %d", &DIS, &TIE);
-if ((DIS*2 > 500) && (TIE > 10))
-BIL = DIS * 2 * 0.19 * 0.8;
+int T, P, N;
+printf("Ingrese los valores de T, P y N: ");
+scanf("%d %d %d", &T, &P, &N);
+if (P != 0)
+{
+ if  (pow(T / P, N) == (pow(T, N) / pow(P, N));
+printf("\nSe comprueba la igualdad");
 else
-BIL = DIS * 2 * 0.19;
-printf("\n\nCosto del billete: %7.2f", BIL);
+printf("\nNo se comprueba la igualdad");
+}
+else
+printf("\nP tiene que ser diferente de cero");
 }
