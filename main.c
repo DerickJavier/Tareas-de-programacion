@@ -1,16 +1,18 @@
-#include <math.h>
+
 #include <stdio.h>
-int main(int argc, char const *argv[])
+
+/* Promedio curso.
+El programa, al recibir como dato el promedio de un alumno en un curso
+➥universitario, escribe aprobado si su promedio es mayor o igual a 6.
+PRO: variable de tipo real. */
+
+PRO: variable de tipo real. */
+
+void main(void)
 {
-	double numero; // Aqu� vamos a almacenar lo que el usuario introduzca
-	printf("Escribe un numero y te dire su raiz cuadrada\n");
-	scanf("%lf", &numero); // Escanear lo que el usuario ingresa
-	double raizCuadrada = sqrt(numero); // Calcular ra�z
-	printf("La raiz cuadrada de %lf es %lf\n", numero, raizCuadrada);
-	return 0;
+float PRO;
+printf(“ingrese el promedio del alumno: “);
+scanf(“%f”, &PRO);
+if (PRO >= 6)
+    printf(“\nAprobado”);
 }
-
-
-
-
-
