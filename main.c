@@ -1,22 +1,26 @@
 #include <stdio.h>
 #include <math.h>
 
-/* Igualdad de expresiones.
-El programa, al recibir como datos T, P y N, comprueba la igualdad de
-una expresi�n determinada.
-T, P y N: variables de tipo entero. */
+/* Función.
+El programa, al recibir como dato un valor entero, calcula el resultado de
+➥una función.
+Y: variable de tipo entero.
+X: variable de tipo real. */
 void main(void)
 {
-int T, P, N;
-printf("Ingrese los valores de T, P y N: ");
-scanf("%d %d %d", &T, &P, &N);
-if (P != 0)
-{
- if  (pow(T / P, N) == (pow(T, N) / pow(P, N));
-printf("\nSe comprueba la igualdad");
+float X;
+int Y;
+printf("Ingrese el valor de Y: ");
+scanf("%d", &Y);
+if (Y < 0 | | Y > 50)
+X = 0;
 else
-printf("\nNo se comprueba la igualdad");
-}
+if (Y <= 10)
+X = 4 / Y - Y;
 else
-printf("\nP tiene que ser diferente de cero");
+if (Y <= 25)
+X = pow(Y, 3) - 12;
+else
+X = pow(Y, 2) + pow(Y, 3) – 18;
+printf("\n\nY = %d\tX = %8.2f", Y, X);
 }
