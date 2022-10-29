@@ -1,34 +1,33 @@
-#include <stdio.h>
-/* Spa.
-El programa, al recibir como datos el tipo de tratamiento, la edad y el
-numero de dias de internación de un cliente en un spa, calcula el costo
-total del tratamiento.
-TRA, EDA, DIA: variables de tipo entero.
-COS: variable de tipo real. */
+# include <stdio.h>
+/* Empresa textil.
+El programa, al recibir como datos decisivos la categoria y antigüedad de
+un empleado, determina si el mismo reúne las condiciones establecidas por
+la empresa para ocupar un nuevo cargo en una sucursal.
+CLA, CAT, ANT, RES: variables de tipo entero.
+SAL: variable de tipo real. */
 void main(void)
 {
-int TRA, EDA, DIA;
-float COS;
-printf("Ingrese tipo de tratamiento, edad y días: ");
-scanf("%d %d %d", &TRA, &EDA, &DIA);
-switch(TRA)
+int CLA, CAT, ANT, RES;
+printf("\nIngrese la clave, categoría y antigüedad del trabajador:");
+scanf("%d %d %d", &CLA, &CAT, &ANT);
+switch(CAT)
 {
-case 1: COS = DIA * 2800; break;
-case 2: COS = DIA * 1950; break;
-case 3: COS = DIA * 2500; break;
-case 4: COS = DIA * 1150; break;
-default: COS = -1; break;
-}
-if (COS != -1)
-{
-if (EDA >= 60)
-COS = COS * 0.75;
+case 3:
+case 4: if (ANT >= 5)
+RES = 1;
 else
-if (EDA <= 25)
-COS = COS * 0.85;
-printf("\nClave tratamiento: %d\t Días: %d\t Costo total: %8.2f",
-TRA, DIA, COS);
-}
+RES = 0;
+break;
+case 2: if (ANT >= 7)
+RES = 1;
 else
-printf("\nLa clave del tratamiento es incorrecta");
+RES = 0;
+break;
+default: RES = 0;
+break;
+}
+if (RES)
+printf("\nEl trabajador con clave %d reúne las condiciones para el puesto", CLA);
+else
+printf("\nEl trabajador con clave %d no reúne las condiciones para el puesto", CLA);
 }
