@@ -1,26 +1,35 @@
 #include <stdio.h>
-#include <math.h>
 
-/* FunciÃ³n.
-El programa, al recibir como dato un valor entero, calcula el resultado de
-âž¥una funciÃ³n.
-Y: variable de tipo entero.
-X: variable de tipo real. */
+/* Teléfono.
+El programa, al recibir como datos la clave de la zona geográfica y el
+numero de segundos de una llamada telefónica, calcula el costo de la misma.
+CLA y TIE: variables de tipo entero.
+COS: variable de tipo real. */
 void main(void)
 {
-float X;
-int Y;
-printf("Ingrese el valor de Y: ");
-scanf("%d", &Y);
-if (Y < 0 | | Y > 50)
-X = 0;
+int CLA, TIE;
+float COS;
+printf("Ingresa la clave y el tiempo: ");
+scanf("%d %d", &CLA, &TIE);
+
+switch(CLA)
+{
+ case 1: COS = TIE * 0.13 / 60; break;
+ case 2: COS = TIE * 0.11 / 60; break;
+ case 5: COS = TIE * 0.22 / 60; break;
+ case 6: COS = TIE * 0.19 / 60; break;
+ case 7:
+ case 9: COS = TIE * 0.17 / 60; break;
+ case 10: COS = TIE * 0.20 / 60; break;
+ case 15: COS = TIE * 0.39 / 60; break;
+ case 20: COS = TIE * 0.28 / 60; break;
+ default : COS = -1; break;
+ if (COS != -1)
+printf("\n\nClave: %d\tTiempo: %d\tCosto: %6.2f", CLA, TIE, COS);
 else
-if (Y <= 10)
-X = 4 / Y - Y;
-else
-if (Y <= 25)
-X = pow(Y, 3) - 12;
-else
-X = pow(Y, 2) + pow(Y, 3) â€“ 18;
-printf("\n\nY = %d\tX = %8.2f", Y, X);
-}
+printf("\nError en la clave");
+
+ }
+
+
+
