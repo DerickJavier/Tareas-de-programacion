@@ -1,19 +1,20 @@
 #include <stdio.h>
-/* Nómina.
-El programa, al recibir los salarios de 15 profesores, obtiene el total de la
-nómina de la universidad.
-I: variable de tipo entero.
-SAL y NOM: variables de tipo real. */
+/* Suma positivos.
+El programa, al recibir como datos N números enteros, obtiene la suma de los
+enteros positivos.
+I, N, NUM, SUM: variables de tipo entero. */
 void main(void)
 {
-int I;
-float SAL, NOM;
-NOM = 0;
-for (I=1; I<=15; I++)
+int I, N, NUM, SUM;
+SUM = 0;
+printf("Ingrese el número de datos:\t");
+scanf("%d", &N);
+for (I=1; I<=N; I++)
 {
-printf("\Ingrese el salario del profesor%d:\t", I);
-scanf("%f", &SAL);
-NOM = NOM + SAL;
+printf("Ingrese el dato número %d:\t", I);
+scanf("%d", &NUM);
+if (NUM > 0)
+SUM = SUM + NUM;
 }
-printf("\nEl total de la nómina es: %.2f", NOM);
+printf("\nLa suma de los números positivos es: %d", SUM);
 }
