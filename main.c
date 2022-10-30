@@ -1,20 +1,21 @@
 #include <stdio.h>
-/* Suma positivos.
-El programa, al recibir como datos N números enteros, obtiene la suma de los
-enteros positivos.
-I, N, NUM, SUM: variables de tipo entero. */
+/* Suma pagos.
+El programa, al recibir como datos un conjunto de pagos realizados en el último
+mes, obtiene la suma de los mismos.
+PAG y SPA: variables de tipo real. */
 void main(void)
 {
-int I, N, NUM, SUM;
-SUM = 0;
-printf("Ingrese el número de datos:\t");
-scanf("%d", &N);
-for (I=1; I<=N; I++)
+float PAG, SPA;
+SPA = 0;
+printf("Ingrese el primer pago:\t");
+scanf("%f", &PAG);
+while (PAG)
+/* Observa que la condición es verdadera mientras el pago es diferente de cero. */
 {
-printf("Ingrese el dato número %d:\t", I);
-scanf("%d", &NUM);
-if (NUM > 0)
-SUM = SUM + NUM;
+SPA = SPA + PAG;
+printf("Ingrese el siguiente pago:\t ");
+scanf("%f", &PAG);
+/* Observa que la proposición que modifica la condición es una lectura. */
 }
-printf("\nLa suma de los números positivos es: %d", SUM);
+printf("\nEl total de pagos del mes es: %.2f", SPA);
 }
