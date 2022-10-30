@@ -1,33 +1,19 @@
-# include <stdio.h>
-/* Empresa textil.
-El programa, al recibir como datos decisivos la categoria y antigüedad de
-un empleado, determina si el mismo reúne las condiciones establecidas por
-la empresa para ocupar un nuevo cargo en una sucursal.
-CLA, CAT, ANT, RES: variables de tipo entero.
-SAL: variable de tipo real. */
+#include <stdio.h>
+/* Nómina.
+El programa, al recibir los salarios de 15 profesores, obtiene el total de la
+nómina de la universidad.
+I: variable de tipo entero.
+SAL y NOM: variables de tipo real. */
 void main(void)
 {
-int CLA, CAT, ANT, RES;
-printf("\nIngrese la clave, categoría y antigüedad del trabajador:");
-scanf("%d %d %d", &CLA, &CAT, &ANT);
-switch(CAT)
+int I;
+float SAL, NOM;
+NOM = 0;
+for (I=1; I<=15; I++)
 {
-case 3:
-case 4: if (ANT >= 5)
-RES = 1;
-else
-RES = 0;
-break;
-case 2: if (ANT >= 7)
-RES = 1;
-else
-RES = 0;
-break;
-default: RES = 0;
-break;
+printf("\Ingrese el salario del profesor%d:\t", I);
+scanf("%f", &SAL);
+NOM = NOM + SAL;
 }
-if (RES)
-printf("\nEl trabajador con clave %d reúne las condiciones para el puesto", CLA);
-else
-printf("\nEl trabajador con clave %d no reúne las condiciones para el puesto", CLA);
+printf("\nEl total de la nómina es: %.2f", NOM);
 }
