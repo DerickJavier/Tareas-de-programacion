@@ -1,21 +1,41 @@
 #include <stdio.h>
-/* Suma pagos.
-El programa, al recibir como datos un conjunto de pagos realizados en el último
-mes, obtiene la suma de los mismos.
-PAG y SPA: variables de tipo real. */
+/* Parámetros y funciones. */
+int f1(void);
+int f2(void); /* Prototipos de funciones. */
+int f3(void);
+int f4(void);
+int K = 5;
 void main(void)
 {
-float PAG, SPA;
-SPA = 0;
-printf("Ingrese el primer pago:\t");
-scanf("%f", &PAG);
-while (PAG)
-/* Observa que la condición es verdadera mientras el pago es diferente de cero. */
+int I;
+for (I = 1; I <= 4; I++)
 {
-SPA = SPA + PAG;
-printf("Ingrese el siguiente pago:\t ");
-scanf("%f", &PAG);
-/* Observa que la proposición que modifica la condición es una lectura. */
+printf("\n\nEl resultado de la función f1 es: %d", f1());
+printf("\nEl resultado de la función f2 es: %d", f2());
+printf("\nEl resultado de la función f3 es: %d", f3());
+printf("\nEl resultado de la función f4 es: %d", f4());
 }
-printf("\nEl total de pagos del mes es: %.2f", SPA);
+}
+int f1(void)
+{
+(K *= K);
+return (K);
+}
+int f2(void)
+{
+int K = 3;
+K++;
+return (K);
+}
+int f3(void)
+{
+static int K = 6;
+K += 3;
+return (K);
+}
+int f4(void)
+{
+int K = 4;
+(K = "K + ::K");
+return (K);
 }
