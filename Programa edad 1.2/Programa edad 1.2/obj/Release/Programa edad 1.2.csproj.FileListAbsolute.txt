@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa edad 1.2\Programa edad 1.2\obj\Release\Programa edad 1.2.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa edad 1.2\Programa edad 1.2\obj\Release\Programa edad 1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa edad 1.2\Programa edad 1.2\obj\Release\Programa_edad_1._2.Form1.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa edad 1.2\Programa edad 1.2\obj\Release\Programa_edad_1._2.Properties.Resources.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa edad 1.2\Programa edad 1.2\obj\Release\Programa edad 1.2.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa edad 1.2\Programa edad 1.2\obj\Release\Programa edad 1.2.csproj.CoreCompileInputs.cache
