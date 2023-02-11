@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\bin\Debug\Programa Loteria 1.0.exe.config
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\bin\Debug\Programa Loteria 1.0.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\bin\Debug\Programa Loteria 1.0.pdb
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa Loteria 1.0.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa Loteria 1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa_Loteria_1._0.Form1.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa_Loteria_1._0.Properties.Resources.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa Loteria 1.0.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa Loteria 1.0.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa Loteria 1.0.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Programa Loteria 1.0\Programa Loteria 1.0\obj\Debug\Programa Loteria 1.0.pdb
