@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo_2.Form1.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo_2.Properties.Resources.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe.config
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.pdb
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.pdb
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo_2.Form2.resources
