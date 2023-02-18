@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\bin\Debug\Ejercicio 14.1.exe.config
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\bin\Debug\Ejercicio 14.1.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\bin\Debug\Ejercicio 14.1.pdb
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio 14.1.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio 14.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio_14._1.Form1.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio_14._1.Properties.Resources.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio 14.1.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio 14.1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio 14.1.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejercicio 14.1\Ejercicio 14.1\obj\Debug\Ejercicio 14.1.pdb
