@@ -1,0 +1,50 @@
+﻿'Base se datos 1.2.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Base se datos 1.2\Base se datos 1.2\bin\Debug\Base se datos 1.2.exe'. Symbols loaded.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll'. Module was built without symbols.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll'. 
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Base se datos 1.2\Base se datos 1.2\bin\Debug\LiteDB.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll'. Module was built without symbols.
+Exception thrown: 'System.IO.DirectoryNotFoundException' in LiteDB.dll
+An unhandled exception of type 'System.IO.DirectoryNotFoundException' occurred in LiteDB.dll
+No se puede encontrar una parte de la ruta de acceso 'c:\Tenp\myData.db'.
+
+'Base se datos 1.2.exe' (CLR v4.0.30319: Base se datos 1.2.exe): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+
+Excepción no controlada: System.IO.DirectoryNotFoundException: No se puede encontrar una parte de la ruta de acceso 'c:\Tenp\myData.db'.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   en LiteDB.Engine.FileStreamFactory.GetStream(Boolean canWrite, Boolean sequencial)
+   en LiteDB.Engine.StreamPool.<>c__DisplayClass3_0.<.ctor>b__0()
+   en System.Lazy`1.CreateValue()
+   en System.Lazy`1.LazyInitValue()
+   en System.Lazy`1.get_Value()
+   en LiteDB.Engine.DiskService..ctor(EngineSettings settings, Int32[] memorySegmentSizes)
+   en LiteDB.Engine.LiteEngine..ctor(EngineSettings settings)
+   en LiteDB.ConnectionString.CreateEngine()
+   en LiteDB.LiteDatabase..ctor(ConnectionString connectionString, BsonMapper mapper)
+   en LiteDB.LiteDatabase..ctor(String connectionString, BsonMapper mapper)
+   en Base_se_datos_1._2.Persona.btnGuardar_Click(Object sender, EventArgs e) en C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Base se datos 1.2\Base se datos 1.2\Form1.cs:línea 28
+   en System.Windows.Forms.Control.OnClick(EventArgs e)
+   en System.Windows.Forms.Button.OnClick(EventArgs e)
+   en System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   en System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   en System.Windows.Forms.Control.WndProc(Message& m)
+   en System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   en System.Windows.Forms.Button.WndProc(Message& m)
+   en System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   en System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   en System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   en System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   en System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   en System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   en System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   en System.Windows.Forms.Application.Run(Form mainForm)
+   en Base_se_datos_1._2.Program.Main() en C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Base se datos 1.2\Base se datos 1.2\Program.cs:línea 19
+The program '[12684] Base se datos 1.2.exe' has exited with code 0 (0x0).
