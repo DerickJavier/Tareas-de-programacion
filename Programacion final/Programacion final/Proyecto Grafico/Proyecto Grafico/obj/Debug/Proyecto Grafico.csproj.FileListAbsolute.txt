@@ -1,0 +1,22 @@
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\bin\Debug\Proyecto Grafico.exe.config
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\bin\Debug\Proyecto Grafico.exe
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\bin\Debug\Proyecto Grafico.pdb
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto_Grafico.Form1.resources
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto_Grafico.Properties.Resources.resources
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.exe
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.pdb
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\bin\Debug\Proyecto Grafico.exe.config
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\bin\Debug\Proyecto Grafico.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\bin\Debug\Proyecto Grafico.pdb
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto_Grafico.Form1.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto_Grafico.Properties.Resources.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.exe
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\Proyecto Nicolas\Proyecto Final\Proyecto Grafico\Proyecto Grafico\obj\Debug\Proyecto Grafico.pdb

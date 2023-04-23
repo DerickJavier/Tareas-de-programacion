@@ -1,0 +1,15 @@
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\bin\Debug\net7.0\Proyecto nicolas venegas.exe
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\bin\Debug\net7.0\Proyecto nicolas venegas.deps.json
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\bin\Debug\net7.0\Proyecto nicolas venegas.runtimeconfig.json
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\bin\Debug\net7.0\Proyecto nicolas venegas.dll
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\bin\Debug\net7.0\Proyecto nicolas venegas.pdb
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.dll
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\refint\Proyecto nicolas venegas.dll
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.pdb
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\Proyecto nicolas venegas.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Proyecto Nicolas\Proyecto nicolas venegas\Proyecto nicolas venegas\obj\Debug\net7.0\ref\Proyecto nicolas venegas.dll

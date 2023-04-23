@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usuarios>
+	<usuario nombre="Juan" apellido="Pérez" direccion="calle girasol" email="juan@example.com">
+		<telefono>1234567890</telefono>
+		<fecha>04/13/2022</fecha>
+	</usuario>
+	<usuario nombre="María" apellido="González" direccion="calle republica de colombia" email="maria@example.com">
+		<telefono>0987654321</telefono>
+		<fecha>04/19/2023</fecha>
+	</usuario>
+	<usuario nombre="oscar" apellido="Venegas" direccion="calle RD" email="oscar@example.com">
+		<telefono>782o34582039450923845</telefono>
+		<fecha>03/19/2020</fecha>
+	</usuario>
+	<usuario nombre="María" apellido="Hernandez" direccion="calle 22" email="maria@example.com">
+		<telefono>23823458534859234</telefono>
+		<fecha>04/19/2021</fecha>
+	</usuario>
+</usuarios>
