@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo Progressbar\Ejemplo Progressbar\obj\Debug\Ejemplo Progressbar.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo Progressbar\Ejemplo Progressbar\obj\Debug\Ejemplo Progressbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo Progressbar\Ejemplo Progressbar\obj\Debug\Ejemplo_Progressbar.Form1.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo Progressbar\Ejemplo Progressbar\obj\Debug\Ejemplo_Progressbar.Properties.Resources.resources
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo Progressbar\Ejemplo Progressbar\obj\Debug\Ejemplo Progressbar.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2-SEGUNDO CUATRIMESTRE\PROGRAMACION II\Ejemplo Progressbar\Ejemplo Progressbar\obj\Debug\Ejemplo Progressbar.csproj.CoreCompileInputs.cache
